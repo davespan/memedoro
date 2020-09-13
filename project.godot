@@ -19,6 +19,9 @@ config/name="Memedoro"
 run/main_scene="res://scenes/SplashScreen.tscn"
 boot_splash/image="res://assets/splash.png"
 boot_splash/bg_color=Color( 0.141176, 0.141176, 0.141176, 1 )
+config/icon="res://assets/icon.png"
+config/macos_native_icon="res://assets/icon.icns"
+config/windows_native_icon="res://assets/icon.ico"
 
 [autoload]
 
