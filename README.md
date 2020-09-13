@@ -1,2 +1,2 @@
 # memedoro
-A simple Pomodoro timer app
+A simple Pomodoro timer app created with Godot.
